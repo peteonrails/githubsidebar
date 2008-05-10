@@ -3,3 +3,5 @@ Add it to typo like so:
 
 cd typo/vendor/plugins
 git clone git://github.com/peteonrails/githubsidebar.git github_sidebar
+
+Licensed under the MIT License. Enjoy. 
