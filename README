@@ -1,0 +1,5 @@
+This is a Typo Sidebar plugin that renders Dr Nic's github badge in typo blogs. 
+Add it to typo like so: 
+
+cd typo/vendor/plugins
+git clone git://github.com/peteonrails/githubsidebar.git github_sidebar
