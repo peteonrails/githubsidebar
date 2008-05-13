@@ -1,4 +1,14 @@
-This is a Typo Sidebar plugin that renders Dr Nic's github badge in typo blogs. 
+This is a Typo Sidebar plugin that renders github badges in typo blogs. 
+Currently supported GitHub badges are: 
+
+Dr Nic's badge: 
+	http://drnicjavascript.rubyforge.org/github_badge/
+
+YAGHB: 
+	Yet Another Github Badge 
+	Good for typo users who have themes that don't work well with Dr Nic's badge. 
+	http://ben.pixelmachine.org/
+
 Add it to typo like so: 
 
 cd typo/vendor/plugins
